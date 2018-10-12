@@ -1,5 +1,5 @@
-#Settup
-##Gradle
+# Settup
+## Gradle
   159  cd gradle-travis-example/
   160  gradle init --type java-application
   161  mkdir java-demo
@@ -9,7 +9,7 @@
   166  ./gradlew tasks
   168  ./gradlew run
   169  history
-##Travis CI
+## Travis CI
   170  git init
   173  git add --all
   174  git commit -m "first commit"
@@ -29,7 +29,7 @@ Es müssen außerdem im Verzeichnis java-demo auch die Files, die im Namen gradl
   184  git push -u origin master
   185  history
   
-#Helpful Links
+# Helpful Links
 Gradle Guides: https://gradle.org/guides/
 
 Set up Gradle on your system: https://guides.gradle.org/building-java-applications/
